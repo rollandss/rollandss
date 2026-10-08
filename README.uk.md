@@ -6,6 +6,8 @@
 
 🌐 [rollandss.github.io](https://rollandss.github.io/uk/) · [English version](README.md)
 
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,redis,docker,linux,vercel,git&perline=12" alt="Next.js, React, TypeScript, Tailwind, Node.js, Postgres, Prisma, Redis, Docker, Linux, Vercel, Git"></p>
+
 ## Продукти в продакшені
 
 ### PriceCortex
@@ -82,3 +84,8 @@ _Внутрішній інструмент з реальними даними б
 - **Автоматизація:** n8n, Telegram-боти, cron, email через Resend
 - **Інфраструктура:** Vercel, Hetzner, Docker, Tailscale, Linux (Arch)
 - **Якість:** Vitest, ESLint, Sentry, rate limiting, AES-256-GCM для збережених секретів
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rollandss/rollandss/output/github-snake-dark.svg">
+  <img alt="Змійка, що зʼїдає мій графік контрибуцій" src="https://raw.githubusercontent.com/rollandss/rollandss/output/github-snake.svg">
+</picture>

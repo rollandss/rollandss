@@ -6,6 +6,8 @@ I build web products that businesses use every day: price monitoring for marketp
 
 🌐 [rollandss.github.io](https://rollandss.github.io/) · [Українська версія](README.uk.md)
 
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,redis,docker,linux,vercel,git&perline=12" alt="Next.js, React, TypeScript, Tailwind, Node.js, Postgres, Prisma, Redis, Docker, Linux, Vercel, Git"></p>
+
 ## Products in production
 
 ### PriceCortex
@@ -82,3 +84,8 @@ Birthday reminders in Telegram and by email, set up once.
 - **Automation:** n8n, Telegram bots, cron jobs, email via Resend
 - **Infrastructure:** Vercel, Hetzner, Docker, Tailscale, Linux (Arch)
 - **Quality:** Vitest, ESLint, Sentry, rate limiting, AES-256-GCM for stored secrets
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rollandss/rollandss/output/github-snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/rollandss/rollandss/output/github-snake.svg">
+</picture>
