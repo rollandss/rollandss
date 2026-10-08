@@ -6,7 +6,7 @@
 
 🌐 [rollandss.github.io](https://rollandss.github.io/uk/) · [English version](README.md)
 
-<p><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,redis,docker,linux,vercel,git&perline=12" alt="Next.js, React, TypeScript, Tailwind, Node.js, Postgres, Prisma, Redis, Docker, Linux, Vercel, Git"></p>
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,mongodb,prisma,redis,docker,linux,vercel,git&perline=13" alt="Next.js, React, TypeScript, Tailwind, Node.js, Postgres, MongoDB, Prisma, Redis, Docker, Linux, Vercel, Git"></p>
 
 ## Продукти в продакшені
 
@@ -79,11 +79,15 @@ _Внутрішній інструмент з реальними даними б
 ## З чим працюю
 
 - **Фронтенд:** React 19, Next.js 16 (App Router, Server Actions), TypeScript, Tailwind CSS, shadcn/ui
-- **Бекенд і дані:** Postgres (Neon), Prisma, Drizzle, Turso/libSQL, Redis (Upstash), Zod
+- **Бекенд і дані:** Postgres (Neon), MongoDB, Prisma, Drizzle, Turso/libSQL, Redis (Upstash), Zod
 - **Авторизація й оплати:** NextAuth v5, Better Auth, JWT, LiqPay
 - **Автоматизація:** n8n, Telegram-боти, cron, email через Resend
 - **Інфраструктура:** Vercel, Hetzner, Docker, Tailscale, Linux (Arch)
 - **Якість:** Vitest, ESLint, Sentry, rate limiting, AES-256-GCM для збережених секретів
+
+## Звʼязатися
+
+[GitHub](https://github.com/rollandss) · [Facebook](https://www.facebook.com/makar.artemenko) · [Instagram](https://www.instagram.com/rollandss05/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rollandss/rollandss/output/github-snake-dark.svg">

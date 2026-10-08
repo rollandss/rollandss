@@ -6,7 +6,7 @@ I build web products that businesses use every day: price monitoring for marketp
 
 🌐 [rollandss.github.io](https://rollandss.github.io/) · [Українська версія](README.uk.md)
 
-<p><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,redis,docker,linux,vercel,git&perline=12" alt="Next.js, React, TypeScript, Tailwind, Node.js, Postgres, Prisma, Redis, Docker, Linux, Vercel, Git"></p>
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,mongodb,prisma,redis,docker,linux,vercel,git&perline=13" alt="Next.js, React, TypeScript, Tailwind, Node.js, Postgres, MongoDB, Prisma, Redis, Docker, Linux, Vercel, Git"></p>
 
 ## Products in production
 
@@ -79,11 +79,15 @@ Birthday reminders in Telegram and by email, set up once.
 ## What I work with
 
 - **Frontend:** React 19, Next.js 16 (App Router, Server Actions), TypeScript, Tailwind CSS, shadcn/ui
-- **Backend & data:** Postgres (Neon), Prisma, Drizzle, Turso/libSQL, Redis (Upstash), Zod
+- **Backend & data:** Postgres (Neon), MongoDB, Prisma, Drizzle, Turso/libSQL, Redis (Upstash), Zod
 - **Auth & payments:** NextAuth v5, Better Auth, JWT, LiqPay
 - **Automation:** n8n, Telegram bots, cron jobs, email via Resend
 - **Infrastructure:** Vercel, Hetzner, Docker, Tailscale, Linux (Arch)
 - **Quality:** Vitest, ESLint, Sentry, rate limiting, AES-256-GCM for stored secrets
+
+## Get in touch
+
+[GitHub](https://github.com/rollandss) · [Facebook](https://www.facebook.com/makar.artemenko) · [Instagram](https://www.instagram.com/rollandss05/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rollandss/rollandss/output/github-snake-dark.svg">
