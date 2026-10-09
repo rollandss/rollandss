@@ -1,6 +1,6 @@
 # Artem Makarenko
 
-**Full-stack developer · Next.js, TypeScript, Postgres**
+<a href="https://rollandss.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=E8590C&vCenter=true&width=560&height=32&lines=Full-stack+developer+%C2%B7+Next.js%2C+TypeScript%2C+Postgres;Price+monitoring+SaaS+for+marketplace+sellers;Payroll+%26+accounting+for+a+store+chain;n8n%2C+Telegram+bots%2C+self-hosted+infra" alt="Full-stack developer · Next.js, TypeScript, Postgres"></a>
 
 I build web products that businesses use every day: price monitoring for marketplace sellers, payroll and accounting for a chain of stores, a testing platform. I take them from idea to production, including the server side, automation and self-hosted infrastructure.
 
@@ -74,6 +74,8 @@ Birthday reminders in Telegram and by email, set up once.
 |---|---|
 | <img src="assets/brutal-ui.webp" width="260" alt="Brutal UI screenshot"> | **Brutal UI**<br>Neobrutalist React component library: 39 typed components with a demo site. Used in Tests System.<br><sub>React, TypeScript, Tailwind CSS, Next.js</sub><br>[Open live](https://brutal-ui-one.vercel.app) · [Source code](https://github.com/rollandss/brutal-ui) |
 | <img src="assets/training.webp" width="260" alt="Stodenka screenshot"> | **Stodenka**<br>100-day pull-up bar program: a short daily post, workout log with sets and reps, and an admin editor for posts.<br><sub>Next.js 16, Prisma, Postgres, TipTap, jose</sub><br>[Open live](https://training-olive-three.vercel.app) · [Source code](https://github.com/rollandss/training) |
+| <img src="assets/crm.webp" width="260" alt="CRM dashboard screenshot"> | **E-commerce CRM**<br>Orders, products, customers and shipping for an online store. Pulls orders from Prom.ua and Rozetka, creates shipments with Nova Poshta, Ukrposhta and Meest, sales analytics, 2FA and audit log.<br><sub>Next.js 16, Prisma, Postgres, NextAuth + TOTP, Recharts, Jest</sub><br>Private repo, code on request |
+| <img src="assets/mayno.webp" width="260" alt="Mayno QR labels screenshot"> | **Mayno**<br>Equipment inventory: searchable table with filters kept in the URL, printable QR labels that open the item card, change history with a calendar view, Excel export.<br><sub>Next.js 16, Prisma, SQLite, Auth.js, TanStack Table, Vitest, Playwright</sub><br>Private repo, code on request |
 | <img src="assets/calendar.webp" width="260" alt="Staff Calendar screenshot"> | **Staff Calendar**<br>First version of the shift calendar for the wine store chain, with notes and PDF export. Later grew into Oblik Stores. Names in the screenshot are replaced.<br><sub>Next.js, PDF export</sub> |
 
 ## What I work with
@@ -88,6 +90,8 @@ Birthday reminders in Telegram and by email, set up once.
 ## Get in touch
 
 [GitHub](https://github.com/rollandss) · [Facebook](https://www.facebook.com/makar.artemenko) · [Instagram](https://www.instagram.com/rollandss05/)
+
+<img src="https://komarev.com/ghpvc/?username=rollandss&label=Profile%20views&color=e8590c&style=flat" alt="Profile views">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rollandss/rollandss/output/github-snake-dark.svg">
