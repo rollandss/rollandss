@@ -89,6 +89,8 @@ _Внутрішній інструмент з реальними даними б
 
 ## Звʼязатися
 
+Замовити роботу на Fiverr: [fiverr.com/artemmakarenkog](https://www.fiverr.com/artemmakarenkog) · автоматизація на n8n, Telegram-боти, доопрацювання застосунків, згенерованих AI
+
 [GitHub](https://github.com/rollandss) · [Facebook](https://www.facebook.com/makar.artemenko) · [Instagram](https://www.instagram.com/rollandss05/)
 
 <img src="https://komarev.com/ghpvc/?username=rollandss&label=%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D0%BB%D1%8F%D0%B4%D0%B8%20%D0%BF%D1%80%D0%BE%D1%84%D1%96%D0%BB%D1%8E&color=e8590c&style=flat" alt="Перегляди профілю">

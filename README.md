@@ -89,6 +89,8 @@ Birthday reminders in Telegram and by email, set up once.
 
 ## Get in touch
 
+Hire me on Fiverr: [fiverr.com/artemmakarenkog](https://www.fiverr.com/artemmakarenkog) · automation with n8n, Telegram bots, fixing AI-generated apps
+
 [GitHub](https://github.com/rollandss) · [Facebook](https://www.facebook.com/makar.artemenko) · [Instagram](https://www.instagram.com/rollandss05/)
 
 <img src="https://komarev.com/ghpvc/?username=rollandss&label=Profile%20views&color=e8590c&style=flat" alt="Profile views">
