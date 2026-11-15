@@ -68,12 +68,26 @@ _Внутрішній інструмент з реальними даними б
 **Стек:** Next.js 16, NextAuth v5, Upstash Redis, Resend, Telegram Bot API, react-hook-form  
 [Відкрити](https://notificator-lake.vercel.app) · Приватний репозиторій, код на запит
 
+### Stodenka
+
+<a href="https://training-olive-three.vercel.app"><img src="assets/training.webp" width="420" alt="Stodenka screenshot"></a>
+
+Програма тренувань на турніку на 100 днів у стилі «тренувального щоденника»: короткий пост щодня, журнал тренувань, прогрес і Telegram-бот.
+
+- Календар днів тренування, розтяжки й відпочинку, режим заняття з таймером відпочинку, стартові максимуми й власні вправи
+- Підказка повторень: після тренування питає «Як пройшло?» і після «легко» додає крок до наступного
+- Сторінка «Прогрес»: графіки тижневого обсягу й повторень, вага й обхвати, фото «до/після» в приватному Cloudflare R2 зі стисненням у браузері
+- Telegram-бот: привʼязка акаунта, ранковий пост, вечірня відмітка дня кнопками й тижневий підсумок у неділю
+- Публічна сторінка «Поділитися» з OG-картинкою; адмінка з редактором постів і аналітикою відтоку (крива утримання, дні, де кидають)
+
+**Стек:** Next.js 16, React 19, Prisma 7, Postgres, Tailwind 4, TipTap, Telegram Bot API, Cloudflare R2  
+[Відкрити](https://training-olive-three.vercel.app) · [Код](https://github.com/rollandss/training)
+
 ## Менші проєкти
 
 | | |
 |---|---|
 | <img src="assets/brutal-ui.webp" width="260" alt="Brutal UI screenshot"> | **Brutal UI**<br>Бібліотека React-компонентів у стилі необруталізму: 39 типізованих компонентів і демо-сайт. Використана в Tests System.<br><sub>React, TypeScript, Tailwind CSS, Next.js</sub><br>[Відкрити](https://brutal-ui-one.vercel.app) · [Код](https://github.com/rollandss/brutal-ui) |
-| <img src="assets/training.webp" width="260" alt="Stodenka screenshot"> | **Stodenka**<br>Програма тренувань на турніку на 100 днів: короткий пост на кожен день, лог підходів і повторів, адмінка з редактором постів.<br><sub>Next.js 16, Prisma, Postgres, TipTap, jose</sub><br>[Відкрити](https://training-olive-three.vercel.app) · [Код](https://github.com/rollandss/training) |
 | <img src="assets/crm.webp" width="260" alt="Скріншот дашборду CRM"> | **CRM для e-commerce**<br>Замовлення, товари, клієнти й доставка для інтернет-магазину. Підтягує замовлення з Prom.ua і Rozetka, створює відправлення Новою поштою, Укрпоштою й Meest, аналітика продажів, 2FA і журнал дій.<br><sub>Next.js 16, Prisma, Postgres, NextAuth + TOTP, Recharts, Jest</sub><br>Приватний репозиторій, код на запит |
 | <img src="assets/mayno.webp" width="260" alt="Скріншот QR-етикеток Mayno"> | **Mayno**<br>Облік обладнання: таблиця з пошуком і фільтрами в URL, друк QR-етикеток, що відкривають картку предмета, історія змін із календарем, вигрузка в Excel.<br><sub>Next.js 16, Prisma, SQLite, Auth.js, TanStack Table, Vitest, Playwright</sub><br>Приватний репозиторій, код на запит |
 | <img src="assets/calendar.webp" width="260" alt="Staff Calendar screenshot"> | **Staff Calendar**<br>Перша версія календаря змін для мережі винних магазинів, з нотатками й експортом у PDF. Згодом переросла в Oblik Stores. Імена на скріншоті замінені.<br><sub>Next.js, PDF export</sub> |

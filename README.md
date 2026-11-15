@@ -68,12 +68,26 @@ Birthday reminders in Telegram and by email, set up once.
 **Stack:** Next.js 16, NextAuth v5, Upstash Redis, Resend, Telegram Bot API, react-hook-form  
 [Open live](https://notificator-lake.vercel.app) · Private repo, code on request
 
+### Stodenka
+
+<a href="https://training-olive-three.vercel.app"><img src="assets/training.webp" width="420" alt="Stodenka screenshot"></a>
+
+100-day pull-up bar program in a “training notebook” style: a short post every day, a workout log, progress tracking and a Telegram bot.
+
+- Calendar of training, stretching and rest days, workout mode with a rest timer, starting maxes and custom exercises
+- Rep suggestions: after each workout it asks how it went and adds a step to the next one after “easy”
+- Progress page: weekly volume and reps charts, weight and body measurements, before/after photos in a private Cloudflare R2 bucket, compressed in the browser
+- Telegram bot: account linking, morning post, evening check-in buttons and a weekly summary on Sundays
+- Public share page with an OG image; admin with a post editor and churn analytics (retention curve, days where people drop off)
+
+**Stack:** Next.js 16, React 19, Prisma 7, Postgres, Tailwind 4, TipTap, Telegram Bot API, Cloudflare R2  
+[Open live](https://training-olive-three.vercel.app) · [Source code](https://github.com/rollandss/training)
+
 ## Smaller projects
 
 | | |
 |---|---|
 | <img src="assets/brutal-ui.webp" width="260" alt="Brutal UI screenshot"> | **Brutal UI**<br>Neobrutalist React component library: 39 typed components with a demo site. Used in Tests System.<br><sub>React, TypeScript, Tailwind CSS, Next.js</sub><br>[Open live](https://brutal-ui-one.vercel.app) · [Source code](https://github.com/rollandss/brutal-ui) |
-| <img src="assets/training.webp" width="260" alt="Stodenka screenshot"> | **Stodenka**<br>100-day pull-up bar program: a short daily post, workout log with sets and reps, and an admin editor for posts.<br><sub>Next.js 16, Prisma, Postgres, TipTap, jose</sub><br>[Open live](https://training-olive-three.vercel.app) · [Source code](https://github.com/rollandss/training) |
 | <img src="assets/crm.webp" width="260" alt="CRM dashboard screenshot"> | **E-commerce CRM**<br>Orders, products, customers and shipping for an online store. Pulls orders from Prom.ua and Rozetka, creates shipments with Nova Poshta, Ukrposhta and Meest, sales analytics, 2FA and audit log.<br><sub>Next.js 16, Prisma, Postgres, NextAuth + TOTP, Recharts, Jest</sub><br>Private repo, code on request |
 | <img src="assets/mayno.webp" width="260" alt="Mayno QR labels screenshot"> | **Mayno**<br>Equipment inventory: searchable table with filters kept in the URL, printable QR labels that open the item card, change history with a calendar view, Excel export.<br><sub>Next.js 16, Prisma, SQLite, Auth.js, TanStack Table, Vitest, Playwright</sub><br>Private repo, code on request |
 | <img src="assets/calendar.webp" width="260" alt="Staff Calendar screenshot"> | **Staff Calendar**<br>First version of the shift calendar for the wine store chain, with notes and PDF export. Later grew into Oblik Stores. Names in the screenshot are replaced.<br><sub>Next.js, PDF export</sub> |
