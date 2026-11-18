@@ -107,9 +107,9 @@ Hire me on Fiverr: [fiverr.com/artemmakarenkog](https://www.fiverr.com/artemmaka
 
 [GitHub](https://github.com/rollandss) · [Facebook](https://www.facebook.com/makar.artemenko) · [Instagram](https://www.instagram.com/rollandss05/)
 
-Like my free projects? Buy me a coffee:
+Like my free projects? Support them on Ko-fi:
 
-<a href="https://buymeacoffee.com/artemmakars"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge" alt="Buy me a coffee"></a>
+<a href="https://ko-fi.com/rollandss"><img src="https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge" alt="Support on Ko-fi"></a>
 
 <img src="https://komarev.com/ghpvc/?username=rollandss&label=Profile%20views&color=e8590c&style=flat" alt="Profile views">
 
