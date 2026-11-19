@@ -70,7 +70,7 @@ Birthday reminders in Telegram and by email, set up once.
 
 ### Stodenka
 
-<a href="https://training-olive-three.vercel.app"><img src="assets/training.webp" width="420" alt="Stodenka screenshot"></a>
+<a href="https://stodenka.vercel.app"><img src="assets/training.webp" width="420" alt="Stodenka screenshot"></a>
 
 100-day pull-up bar program in a “training notebook” style: a short post every day, a workout log, progress tracking and a Telegram bot.
 
@@ -81,7 +81,7 @@ Birthday reminders in Telegram and by email, set up once.
 - Public share page with an OG image; admin with a post editor and churn analytics (retention curve, days where people drop off)
 
 **Stack:** Next.js 16, React 19, Prisma 7, Postgres, Tailwind 4, TipTap, Telegram Bot API, Cloudflare R2  
-[Open live](https://training-olive-three.vercel.app) · [Source code](https://github.com/rollandss/training)
+[Open live](https://stodenka.vercel.app) · [Source code](https://github.com/rollandss/training)
 
 ## Smaller projects
 

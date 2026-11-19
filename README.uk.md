@@ -70,7 +70,7 @@ _Внутрішній інструмент з реальними даними б
 
 ### Stodenka
 
-<a href="https://training-olive-three.vercel.app"><img src="assets/training.webp" width="420" alt="Stodenka screenshot"></a>
+<a href="https://stodenka.vercel.app"><img src="assets/training.webp" width="420" alt="Stodenka screenshot"></a>
 
 Програма тренувань на турніку на 100 днів у стилі «тренувального щоденника»: короткий пост щодня, журнал тренувань, прогрес і Telegram-бот.
 
@@ -81,7 +81,7 @@ _Внутрішній інструмент з реальними даними б
 - Публічна сторінка «Поділитися» з OG-картинкою; адмінка з редактором постів і аналітикою відтоку (крива утримання, дні, де кидають)
 
 **Стек:** Next.js 16, React 19, Prisma 7, Postgres, Tailwind 4, TipTap, Telegram Bot API, Cloudflare R2  
-[Відкрити](https://training-olive-three.vercel.app) · [Код](https://github.com/rollandss/training)
+[Відкрити](https://stodenka.vercel.app) · [Код](https://github.com/rollandss/training)
 
 ## Менші проєкти
 
